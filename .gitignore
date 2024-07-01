@@ -130,3 +130,7 @@ dist
 
 # IDEA
 .idea/
+
+# npm and pnpm
+package-lock.json
+pnpm-lock.yaml
